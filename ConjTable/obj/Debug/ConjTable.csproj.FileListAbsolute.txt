@@ -1,0 +1,12 @@
+C:\Users\stiv0\Desktop\ConjTable\bin\Debug\ConjTable.dll
+C:\Users\stiv0\Desktop\ConjTable\bin\Debug\ConjTable.pdb
+C:\Users\stiv0\Desktop\ConjTable\obj\Debug\ConjTable.csproj.AssemblyReference.cache
+C:\Users\stiv0\Desktop\ConjTable\obj\Debug\ConjTable.csproj.CoreCompileInputs.cache
+C:\Users\stiv0\Desktop\ConjTable\obj\Debug\ConjTable.dll
+C:\Users\stiv0\Desktop\ConjTable\obj\Debug\ConjTable.pdb
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\ConjTable\bin\Debug\ConjTable.dll
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\ConjTable\bin\Debug\ConjTable.pdb
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\ConjTable\obj\Debug\ConjTable.csproj.AssemblyReference.cache
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\ConjTable\obj\Debug\ConjTable.csproj.CoreCompileInputs.cache
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\ConjTable\obj\Debug\ConjTable.dll
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\ConjTable\obj\Debug\ConjTable.pdb

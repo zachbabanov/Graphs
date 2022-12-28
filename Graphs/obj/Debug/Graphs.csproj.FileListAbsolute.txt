@@ -1,0 +1,17 @@
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\obj\Debug\Graphs.csproj.AssemblyReference.cache
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\obj\Debug\Graphs.csproj.SuggestedBindingRedirects.cache
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\obj\Debug\Graphs.Properties.Resources.resources
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\obj\Debug\Graphs.csproj.GenerateResource.cache
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\bin\Debug\Graphs.exe.config
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\bin\Debug\Graphs.exe
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\bin\Debug\Graphs.pdb
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\bin\Debug\ConjTable.dll
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\bin\Debug\ConjTable.pdb
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\obj\Debug\Graphs.csproj.CopyComplete
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\obj\Debug\Graphs.exe
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\obj\Debug\Graphs.pdb
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\obj\Debug\Graphs.Graphs.resources
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\obj\Debug\Graphs.Optimize.resources
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\obj\Debug\Graphs.NodeAdd.resources
+D:\Stuff\Exams\Labs\АИСД\НИР\repos\Graphs\obj\Debug\Graphs.NodeDelete.resources
